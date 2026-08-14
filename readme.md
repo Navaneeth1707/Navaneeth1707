@@ -31,7 +31,7 @@
 | Project | Tools | Highlight |
 |---|---|---|
 | [RFM Customer Segmentation](https://github.com/Navaneeth1707/rfm-customer-segmentation) | SQL, SQLAlchemy, Python, Power BI | 5,878 customers segmented — 26% of customers drive 71% of revenue |
-| [telco-churn-analysis(Customer Churn Prediction)](github.com/Navaneeth1707/telco-churn-analysis) | Python, Scikit-learn, Power BI | 93% recall, $139.88K revenue-at-risk identified |
+| [Customer Churn Prediction](https://github.com/Navaneeth1707/telco-churn-analysis) | Python, Scikit-learn, Power BI | Tuned Random Forest, 94% recall, 84% cost reduction vs. no intervention (validated on held-out data) |
 | [India Financial Stress — Early Warning System](https://github.com/Navaneeth1707/india-financial-stress-early-warning) | SQL, Python, XGBoost, Power BI | Altman Z-Score + ML across 50 NSE companies |
 | [India EV Market Analysis](https://github.com/Navaneeth1707) | Power BI, DAX, Excel | 57M vehicles, 2M EVs analyzed |
 | [India Job Market Analysis](https://github.com/Navaneeth1707) | SQL, MySQL | Pure-SQL analysis of 949 job postings |
