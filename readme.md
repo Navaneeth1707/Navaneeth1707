@@ -40,14 +40,6 @@ Full write-ups and dashboards: **[navaneeth1707.github.io](https://navaneeth1707
 
 ---
 
-## GitHub Stats
-
-![Navaneeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navaneeth1707&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth1707&layout=compact&theme=tokyonight)
-
----
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://navaneeth1707.github.io)
